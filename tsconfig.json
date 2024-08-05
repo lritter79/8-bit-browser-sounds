@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es5", /* Specify ECMAScript target version: 'ES3' (default), 'ES5', 'ES2015', 'ES2016', 'ES2017', 'ES2018', 'ES2019' or 'ESNEXT'. */
+    "module": "commonjs",                                /* Specify what module code is generated. */
+    "esModuleInterop": true,     
+    "allowJs": true, /* Allow javascript files to be compiled. */
+    "strict": true, /* Enable all strict type-checking options. */                        /* Emit additional JavaScript to ease support for importing CommonJS modules. This enables 'allowSyntheticDefaultImports' for type compatibility. */
+    "forceConsistentCasingInFileNames": true,            /* Ensure that casing is correct in imports. */
+    "skipLibCheck": true,                                 /* Skip type checking all .d.ts files. */
+    "outDir": "./dist",
+  }
+}

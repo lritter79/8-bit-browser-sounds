@@ -1,0 +1,24 @@
+{
+  "name": "8-bit-browser-sounds",
+  "version": "1.0.2",
+  "description": "A wrapper for the OscillatorNode API with a couple functions to make 8 bit sounds in the browser with JavaScript! ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [
+    "8-bit",
+    "sound"
+  ],
+  "author": "Levon Ritter (https://github.com/lritter79)",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^22.1.0",
+    "typescript": "^5.5.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lritter79/8-bit-browser-sounds.git"
+  }
+}
